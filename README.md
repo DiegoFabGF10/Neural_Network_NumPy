@@ -13,27 +13,32 @@ Este proyecto implementa una **red neuronal multicapa** en **Python** para clasi
 
 Asegúrate de tener **Python 3.7 o superior** y las siguientes librerías:
 
-```bash
+```
 pip install numpy matplotlib scikit-learn
+```
 
 ## **Instalacion**
-## 1.- Clonar el repositorio:
-```bash
+### 1.- Clonar el repositorio:
+```
 git clone https://github.com/DiegoFabGF10/Neural_Network_NumPy.git
 cd Neural_Network_NumPy
+```
 
-## 2.- (Opcional) Crear un entorno virtual
-```bash
+### 2.- (Opcional) Crear un entorno virtual
+```
 python -m venv venv
 source venv/bin/activate  # Mac/Linux
 venv\Scripts\activate     # Windows
+```
 
-## 3.- Instalar las dependencias
-```bash
+### 3.- Instalar las dependencias
+```
 pip install -r requirements.txt
+```
 
 ## **Ejecutar el script principal**
-```bash
+```
 python main.py
+```
 
 Esto generará un conjunto de datos, entrenará la red neuronal y mostrará la clasificación en un gráfico.
