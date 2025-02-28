@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 # Archivos de entornos virtuales
+env/
 venv/
-.env
+*/env/
+*/venv/
 
 # Archivos de configuración y caché
 __pycache__/
