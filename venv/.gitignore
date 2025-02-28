@@ -1,0 +1,28 @@
+# Archivos de entornos virtuales
+venv/
+.env
+
+# Archivos de configuración y caché
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Configuración de IDEs y editores de texto
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Archivos de logs y bases de datos locales
+*.log
+*.sqlite3
+
+# Dependencias generadas
+requirements.txt
+
+# Archivos de Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Claves o configuraciones privadas (si las usas)
+.env
+config.json
